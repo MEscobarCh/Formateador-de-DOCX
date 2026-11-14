@@ -1,0 +1,1 @@
+EN EL CODIGO ESTA EL ARCHIVO DE ENTRADA: PUEDE SER UN DOCUMENTO QUE QUIERAS PONER EN FORMATO, TIENE 4 niveles de titulos, y corrige titulos de tablas, figuras y otros agregando el rotulo que sea nuevo
